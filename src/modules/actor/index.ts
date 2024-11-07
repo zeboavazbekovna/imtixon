@@ -1,0 +1,5 @@
+export * from './models'
+export * from './dto'
+export * from './actor.service'
+export * from './actor.controller'
+export * from './actor.module'

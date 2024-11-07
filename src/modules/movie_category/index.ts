@@ -1,0 +1,5 @@
+export * from './dto'
+export * from './models'
+export * from './movie_category.service'
+export * from './movie_category.module'
+export * from './movie_category.controller'
